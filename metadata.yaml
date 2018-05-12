@@ -1,0 +1,28 @@
+_repo: The-Skipper-s-Wooing-and-The-Brown-Man-s-Servant_21336
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21336-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jacobs, W. W. (William Wymark)
+    alias: Jacobs, William Wymark
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '1865'
+    url: http://www.gutenberg.org/2009/agents/1865
+    wikipedia: http://en.wikipedia.org/wiki/W._W._Jacobs
+description: ''
+gutenberg_issued: '2007-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21336'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sailors -- Fiction'
+- !lcc 'PR'
+title: The Skipper's Wooing, and The Brown Man's Servant
+url: http://www.gutenberg.org/ebooks/21336
