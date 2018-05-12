@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1865
     wikipedia: http://en.wikipedia.org/wiki/W._W._Jacobs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21336#The-Skipper-s-Wooing-and-The-Brown-Man-s-Servant
 gutenberg_issued: '2007-05-05'
 gutenberg_type: Text
 identifiers:
